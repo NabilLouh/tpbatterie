@@ -52,15 +52,15 @@ body {
 }
 
 
-.activebody {
+.activebodyq {
     background-color: #568259 !important;
 }
 
-.activecontainer {
+.activecontainerq {
     background-color: #568259 !important;
 }
 
-.activebatterie {
+.activebatterieq {
     background-color: #568259 !important;
     color: yellow !important;
     border: 5px yellow solid !important;
@@ -68,6 +68,203 @@ body {
 }
 
 .activeQ {
+    color: yellow !important;
+    border: 3px yellow solid !important;
+    box-shadow: 0px 0px 20px 10px rgba(188,192,18,0.7)  !important;
+}
+
+
+
+
+.activebodys {
+    background-color: #33658a !important;
+}
+
+.activecontainers {
+    background-color: #33658a !important;
+}
+
+.activebatteries {
+    background-color: #33658a !important;
+    color: yellow !important;
+    border: 5px yellow solid !important;
+    box-shadow: 0px 0px 20px 10px rgba(188,192,18,0.7)  !important;
+}
+
+.activeS {
+    color: yellow !important;
+    border: 3px yellow solid !important;
+    box-shadow: 0px 0px 20px 10px rgba(188,192,18,0.7)  !important;
+}
+
+
+
+
+.activebodyd {
+    background-color: #fd5200 !important;
+}
+
+.activecontainerd {
+    background-color: #fd5200 !important;
+}
+
+.activebatteried {
+    background-color: #fd5200 !important;
+    color: yellow !important;
+    border: 5px yellow solid !important;
+    box-shadow: 0px 0px 20px 10px rgba(188,192,18,0.7)  !important;
+}
+
+.activeD {
+    color: yellow !important;
+    border: 3px yellow solid !important;
+    box-shadow: 0px 0px 20px 10px rgba(188,192,18,0.7)  !important;
+}
+
+
+
+
+
+
+
+.activebodyf {
+    background-color: #2f4858 !important;
+}
+
+.activecontainerf {
+    background-color: #2f4858 !important;
+}
+
+.activebatterief {
+    background-color: #2f4858 !important;
+    color: yellow !important;
+    border: 5px yellow solid !important;
+    box-shadow: 0px 0px 20px 10px rgba(188,192,18,0.7)  !important;
+}
+
+.activeF {
+    color: yellow !important;
+    border: 3px yellow solid !important;
+    box-shadow: 0px 0px 20px 10px rgba(188,192,18,0.7)  !important;
+}
+
+
+
+
+
+
+.activebodyg {
+    background-color: #f6ae2d !important;
+}
+
+.activecontainerg {
+    background-color: #f6ae2d !important;
+}
+
+.activebatterieg {
+    background-color: #f6ae2d !important;
+    color: yellow !important;
+    border: 5px yellow solid !important;
+    box-shadow: 0px 0px 20px 10px rgba(188,192,18,0.7)  !important;
+}
+
+.activeG {
+    color: yellow !important;
+    border: 3px yellow solid !important;
+    box-shadow: 0px 0px 20px 10px rgba(188,192,18,0.7)  !important;
+}
+
+
+
+
+
+.activebodyh {
+    background-color: #4381c1 !important;
+}
+
+.activecontainerh {
+    background-color: #4381c1 !important;
+}
+
+.activebatterieh {
+    background-color: #4381c1 !important;
+    color: yellow !important;
+    border: 5px yellow solid !important;
+    box-shadow: 0px 0px 20px 10px rgba(188,192,18,0.7)  !important;
+}
+
+.activeH {
+    color: yellow !important;
+    border: 3px yellow solid !important;
+    box-shadow: 0px 0px 20px 10px rgba(188,192,18,0.7)  !important;
+}
+
+
+
+.activebodyj {
+    background-color: #f593e0 !important;
+}
+
+.activecontainerj {
+    background-color: #f593e0 !important;
+}
+
+.activebatteriej {
+    background-color: #f593e0 !important;
+    color: yellow !important;
+    border: 5px yellow solid !important;
+    box-shadow: 0px 0px 20px 10px rgba(188,192,18,0.7)  !important;
+}
+
+.activeJ {
+    color: yellow !important;
+    border: 3px yellow solid !important;
+    box-shadow: 0px 0px 20px 10px rgba(188,192,18,0.7)  !important;
+}
+
+
+
+
+.activebodyk{
+    background-color: #511350 !important;
+}
+
+.activecontainerk {
+    background-color: #511350 !important;
+}
+
+.activebatteriek {
+    background-color: #511350 !important;
+    color: yellow !important;
+    border: 5px yellow solid !important;
+    box-shadow: 0px 0px 20px 10px rgba(188,192,18,0.7)  !important;
+}
+
+.activeK {
+    color: yellow !important;
+    border: 3px yellow solid !important;
+    box-shadow: 0px 0px 20px 10px rgba(188,192,18,0.7)  !important;
+}
+
+
+
+
+.activebodyl{
+    background-color: #8cd790 !important;
+}
+
+.activecontainerl {
+    background-color: #8cd790 !important;
+}
+
+.activebatteriel {
+    background-color: #8cd790 !important;
+    color: yellow !important;
+    border: 5px yellow solid !important;
+    box-shadow: 0px 0px 20px 10px rgba(188,192,18,0.7)  !important;
+}
+
+.activeL {
     color: yellow !important;
     border: 3px yellow solid !important;
     box-shadow: 0px 0px 20px 10px rgba(188,192,18,0.7)  !important;
